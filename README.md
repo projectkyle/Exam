@@ -1,5 +1,5 @@
 # Exam
-Pain
+
 I definitely needed more time
 
 1. My hypothesis is that people in the Northeast will have a higher vaccine rate across all education levels compared to the South. I tried sticking the data into excel to get a t test and p value, but admittedly I couldn't figure out how to link together 4 columns of data (northeast: vaxxed and unvaxxed/na, south: vaxxed and unvaxxed/na)
